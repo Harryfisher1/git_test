@@ -1,3 +1,4 @@
 - HARRY FISHER
 - GIT Folder
 - s1741556@ed.ac.uk
+- Still trying to wrap my head around this
